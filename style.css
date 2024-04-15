@@ -1,0 +1,33 @@
+.title {
+	text-align: center; 
+	font-size: 25px;
+    color: black; 
+    font-family: monospace;
+    background-color: darkcyan;
+    padding: 20px;
+    margin: 10px;
+    border-radius: 5px;
+
+}
+
+
+.bo {
+	margin: 5px;
+	padding: 10px;
+	border-radius: 2px;
+	border: 2px solid white;
+	background-color: darkgray;
+	
+
+
+}
+.hero {
+    background-color: darkcyan;  
+    border: 5px white;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 5px;
+    text-align: center;
+    font-size: 10px;
+
+}		
